@@ -4,6 +4,6 @@ In this repository, there are the works of the projects given at AI Summer Camp 
 
 **First Project:** Insurance Forecasting
 
-In this project, it was tried to develop an end-to-end data science application using [the dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance). The aim of the project is to forecast the approximate cost of a person's health insurance based on the given variables.
+In this project, it was tried to develop an end-to-end data science application using [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance). The aim of the project is to forecast the approximate cost of a person's health insurance based on the given variables.
 
 
