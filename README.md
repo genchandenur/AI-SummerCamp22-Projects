@@ -8,6 +8,6 @@ In this project, it was tried to develop an end-to-end data science application 
 
 **Second Project:** Transfer Learning
 
-In this project, it was tried to develop an end-to-end data science application using [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance). The aim of the project is to forecast the approximate cost of a person's health insurance based on the given variables.
+In this project, a deep learning model was trained with Transfer Learning using the [Cats and Dogs](https://www.microsoft.com/en-us/download/details.aspx?id=54765) dataset. The first notebook contains the preprocessing steps applied to the dataset. The second notebook contains model training and model performance metrics.
 
 
